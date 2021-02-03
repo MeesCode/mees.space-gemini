@@ -14,7 +14,8 @@ _|  _| \___| \___| ____/     ____/  _|    _| _|  _| _|\_\ _| |_| \__,_| _| ____/
 
 ## My pages
 => https://mees.space/ HTTP page
-=> https://www.linkedin.com/in/mees-brinkhuis/ My LinkedIn page
+=> https://www.linkedin.com/in/mees-brinkhuis/ LinkedIn
+=> https://github.com/MeesCode GitHub
 
 ### who i am
 I am a student at the Delft University of Technology, an all-round web developer, and also a massive robotics enthusiast.
