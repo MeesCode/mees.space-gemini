@@ -1,0 +1,52 @@
+```
+  \  |                        __ )        _)         |     |            _)       
+ |\/ |   _ \   _ \   __|      __ \    __|  |  __ \   |  /  __ \   |   |  |   __| 
+ |   |   __/   __/ \__ \      |   |  |     |  |   |    <   | | |  |   |  | \__ \ 
+_|  _| \___| \___| ____/     ____/  _|    _| _|  _| _|\_\ _| |_| \__,_| _| ____/
+```
+
+
+# Mees Brinkhuis
+
+## Guestbook
+=> /book View Guestbook
+=> /submit Post in guestbook
+
+## My pages
+=> https://mees.space/ HTTP page
+=> https://www.linkedin.com/in/mees-brinkhuis/ My LinkedIn page
+
+### who i am
+I am a student at the Delft University of Technology, an all-round web developer, and also a massive robotics enthusiast.
+
+### what i do
+=> https://www.tudelft.nl/en/ Delft University Of Technology
+I'm currently following the Embedded Systems masters programme at the Delft University of Technology. In 2020 I was admitted the Computer Science and Engineering bachelors degree at the same university.
+
+=> https://www.aquablu.com/en/ Aquablu
+Since july 2020 I've been working as an embedded systems engineer and full stack web developer at Aquablu, Voorhout.
+
+=> https://happyflow.io/team/mees-brinkhuis/ HappyFlow
+From 2017 until 2020 I've had a part-time job as a web developer at HappyFlow, the Hague.
+
+=> https://www.delta.tudelft.nl/article/robot-minor-super-intensief-voor-studenten Robotics Minor
+I have done a minor in robotics. During this minor we built a life-size interactive robotic guide named IONA for the Science Centre, Delft.
+
+=> https://robocupjunior.nl/ RoboCupJunior
+In the past I have competed in the RoboCupJunior national and world championships, of which i won the former. Nowadays I am on the board that organizes this national championship.
+
+=> https://www.st.ewi.tudelft.nl/koen/cse2425/robot-manual.pdf Open Robotics Education Platfrom
+Together with a team consisting of university personnel and students I am working on a robotics platform to help teach high schoolers the art of programming.
+
+=> https://ngrsa.nl/ Robotics Study Association
+I am a member of the Robotics Study Association (RSA) that aims to connect students in the robotics community to the industry.
+
+=> https://repository.tudelft.nl/islandora/object/uuid%3Acaa6b17a-b94f-471c-aa22-985587f71416 Bachelor Thesis
+For my final bachelor thesis I have worked on computer vision software for warehouse based flying drones at Eonics, the Hague.
+
+### quick words
+I like to play around with provided assets like images and documents. However, I do not own licenses to the Microsoft and/or Adobe software that is often required for these kinds of things. FOSS software is often enough for me. I wish more assets were provided in non-proprietary file formats.
+
+I give funny looks to people who believe that modern is always better. There is a time and place for everything, but when your web page takes a full minute to load you must reassess your priorities.
+
+Tabs are always better than spaces, except for aligning stuff. Linux kernel style is the only proper way to place brackets. Vim is better than Emacs, but only because no one except Richard bothers with the steep learning curve. I prefer Gnome over KDE. You can be an expert on any programming language and still dislike said language.
