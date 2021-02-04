@@ -1,22 +1,25 @@
 ```
-  \  |                        __ )        _)         |     |            _)       
- |\/ |   _ \   _ \   __|      __ \    __|  |  __ \   |  /  __ \   |   |  |   __| 
- |   |   __/   __/ \__ \      |   |  |     |  |   |    <   | | |  |   |  | \__ \ 
-_|  _| \___| \___| ____/     ____/  _|    _| _|  _| _|\_\ _| |_| \__,_| _| ____/
+ooo        ooooo                              
+`88.       .888'                              
+ 888b     d'888   .ooooo.   .ooooo.   .oooo.o 
+ 8 Y88. .P  888  d88' `88b d88' `88b d88(  "8 
+ 8  `888'   888  888ooo888 888ooo888 `"Y88b.  
+ 8    Y     888  888    .o 888    .o o.  )88b 
+o8o        o888o `Y8bod8P' `Y8bod8P' 8""888P'
 ```
 
-
 # Mees Brinkhuis
+Welcome to my personal Capsule! Since you are here anyway, can i ask you to leave a message in the guestbook? Let me know of some cool locations you found in geminispace.
 
 ## Guestbook
-=> /book View Guestbook
-=> /submit Post in guestbook
+=> /book 📝 Go to the guestbook
 
 ## My pages
-=> https://mees.space/ HTTP page
-=> https://www.linkedin.com/in/mees-brinkhuis/ LinkedIn
-=> https://github.com/MeesCode GitHub
+=> https://mees.space/ 🌐 HTTPS page
+=> https://www.linkedin.com/in/mees-brinkhuis/ 🤵 LinkedIn
+=> https://github.com/MeesCode 🤖 GitHub
 
+## Clone of HTTPS page
 ### who i am
 I am a student at the Delft University of Technology, an all-round web developer, and also a massive robotics enthusiast.
 
@@ -51,3 +54,14 @@ I like to play around with provided assets like images and documents. However, I
 I give funny looks to people who believe that modern is always better. There is a time and place for everything, but when your web page takes a full minute to load you must reassess your priorities.
 
 Tabs are always better than spaces, except for aligning stuff. Linux kernel style is the only proper way to place brackets. Vim is better than Emacs, but only because no one except Richard bothers with the steep learning curve. I prefer Gnome over KDE. You can be an expert on any programming language and still dislike said language.
+
+```
+ _________________ 
+< here be dragons >
+ ----------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```

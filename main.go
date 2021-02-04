@@ -58,7 +58,7 @@ func main() {
 			log.Fatal(err)
 		}
 
-		return c.File("book.gmi")
+		return c.NoContent(gig.StatusRedirectTemporary, "/book")
 	})
 
 	// Start server on PORT or default port

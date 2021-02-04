@@ -1,10 +1,17 @@
 ```
-  \  |                        __ )        _)         |     |            _)       
- |\/ |   _ \   _ \   __|      __ \    __|  |  __ \   |  /  __ \   |   |  |   __| 
- |   |   __/   __/ \__ \      |   |  |     |  |   |    <   | | |  |   |  | \__ \ 
-_|  _| \___| \___| ____/     ____/  _|    _| _|  _| _|\_\ _| |_| \__,_| _| ____/
+ooo        ooooo                              
+`88.       .888'                              
+ 888b     d'888   .ooooo.   .ooooo.   .oooo.o 
+ 8 Y88. .P  888  d88' `88b d88' `88b d88(  "8 
+ 8  `888'   888  888ooo888 888ooo888 `"Y88b.  
+ 8    Y     888  888    .o 888    .o o.  )88b 
+o8o        o888o `Y8bod8P' `Y8bod8P' 8""888P'
 ```
 
-=> /submit Post in guestbook
-=> / Go Back
+=> /submit 📝 Post in guestbook
+=> / 🏠 Go Back
 
+[04 Feb 21 16:00 CET] <anonymous> Test post!
+[04 Feb 21 16:02 CET] <anonymous> test
+[04 Feb 21 16:04 CET] <anonymous> Moar test
+[04 Feb 21 16:06 CET] <Mees> post
